@@ -1,0 +1,27 @@
+{
+  "name": "dfltv",
+  "version": "1.0.0",
+  "description": "default value wrapper",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-x-/dfltv.git"
+  },
+  "keywords": [
+    "default"
+  ],
+  "author": "Alex Mextner <invntrm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-x-/dfltv/issues"
+  },
+  "homepage": "https://github.com/a-x-/dfltv#readme"
+}
